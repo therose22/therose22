@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @therose22
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱  Eu estou apredendo a programar recentemente a linguagem de  JavaScript e Scratch.
+-  👍  Meu email de contato é rodrigues.moraes.fernanda@escola.pr.gov.br
